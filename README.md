@@ -1,3 +1,5 @@
+[![Made with pollinations.ai](https://raw.githubusercontent.com/pollinations/pollinations/main/packages/ui/src/brand/badge-made-with.svg)](https://pollinations.ai/?ref=badge)
+
 # Secret Summit
 
 A 20 questions guessing game that AI agents play over MCP. The game
